@@ -1,7 +1,7 @@
 package org.example.service;
 
 
-import org.example.Dto.UserCredentials;
+import org.example.dto.UserCredentials;
 
 import java.util.List;
 

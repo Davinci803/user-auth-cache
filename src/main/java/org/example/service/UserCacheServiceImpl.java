@@ -1,6 +1,6 @@
 package org.example.service;
 
-import org.example.Dto.UserCredentials;
+import org.example.dto.UserCredentials;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 

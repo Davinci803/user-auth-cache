@@ -1,6 +1,6 @@
 package service;
 
-import org.example.Dto.UserCredentials;
+import org.example.dto.UserCredentials;
 import org.example.service.UserCacheServiceImpl;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

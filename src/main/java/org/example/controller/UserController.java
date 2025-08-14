@@ -1,6 +1,6 @@
 package org.example.controller;
 
-import org.example.Dto.UserCredentials;
+import org.example.dto.UserCredentials;
 import org.example.service.UserCacheService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
